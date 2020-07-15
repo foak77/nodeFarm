@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foak77/nodeFarm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foak77/nodeFarm/issues"
+  },
+  "homepage": "https://github.com/foak77/nodeFarm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
