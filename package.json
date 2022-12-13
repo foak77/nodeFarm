@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/foak77/nodeFarm#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "slugify": "^1.4.4"
   },
   "devDependencies": {
